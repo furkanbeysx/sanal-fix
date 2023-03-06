@@ -1,0 +1,2 @@
+# sanal-fix
+özel
